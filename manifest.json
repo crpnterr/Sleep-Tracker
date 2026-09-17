@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Sleepmaxxing V1",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "slpmxxg",
+  "start_url": "/https://crpnterr.github.io/Sleep-Tracker/",
+  "theme_color": "#ffffff"
+}
